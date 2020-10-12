@@ -41,6 +41,6 @@ Namun, sebelum melangkah lebih jauh, variabel - variabel tersebut harus dilihat 
 
 <h1> Analisis Variabel </h1>
 
-- Hubungan antara umur dan kepindahan nasabah
+**1. Hubungan antara umur dan kepindahan nasabah**
 
 wf
