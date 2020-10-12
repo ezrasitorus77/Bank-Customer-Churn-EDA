@@ -43,4 +43,9 @@ Namun, sebelum melangkah lebih jauh, variabel - variabel tersebut harus dilihat 
 
 **1. Hubungan antara umur dan kepindahan nasabah**
 
-wf
+[![3.jpg](https://i.postimg.cc/VsDQVf6G/3.jpg)](https://postimg.cc/jCwFWryP)
+
+'Age' memiliki distribusi 'right skewed'. Oleh karena itu, untuk menilai korelasinya harus menggunakan metode Spearman.
+
+Nilai korelasi 'Age' dan 'Exited' :
+[![4.jpg](https://i.postimg.cc/d1wp5pKc/4.jpg)](https://postimg.cc/nsS3zdz3)
