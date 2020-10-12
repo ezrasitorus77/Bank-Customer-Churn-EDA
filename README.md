@@ -48,4 +48,23 @@ Namun, sebelum melangkah lebih jauh, variabel - variabel tersebut harus dilihat 
 'Age' memiliki distribusi 'right skewed'. Oleh karena itu, untuk menilai korelasinya harus menggunakan metode Spearman.
 
 Nilai korelasi 'Age' dan 'Exited' :
+
 [![4.jpg](https://i.postimg.cc/d1wp5pKc/4.jpg)](https://postimg.cc/nsS3zdz3)
+
+Korelasi ini bernilai positif yang berarti semakin tua seorang nasabah, maka semakin besar kecenderungannya untuk keluar dari Bank Purwad.
+
+Persebaran outliers :
+
+[![5.jpg](https://i.postimg.cc/6QwMKZbd/5.jpg)](https://postimg.cc/NKJ67KcM)
+
+Seperti halnya visualisasi distribusi data di atas, *boxplot* juga menggambarkan hal yang sama. Sentralitas data berada pada rentang umur sekitar 32 - 44 tahun. Pada sisi lain, *outliers* berada di atas sekitar 62 tahun. Ini menandakan bahwa nasabah kita yang umurnya cukup tua cenderung sedikit dibandingkan nasabah usia produktif. *Outliers* ini tidak akan dieliminasi karena akan berbicara banyak sebagai salah satu faktor determinan pindahnya nasabah.
+
+[![6.jpg](https://i.postimg.cc/h49bDvxs/6.jpg)](https://postimg.cc/V5kb4YK0)
+
+Setelah kami analisis, ternyata nasabah yang proporsinya paling banyak pindah adalah nasabah dari rentang umur 48 - 65 dengan puncaknya pada umur **54 - 59**. Korelasi positif antara kedua variabel ternyata **tidak sepenuhnya berjalan linear**. Dapat dilihat bahwa memasuki kelompok umur 60 - 65 terjadi penurunan yang cukup jauh. Hal ini **menandakan** bahwa tren korelasi positif berjalan konsisten untuk nasabah dalam rentang umur 18 - 59.
+
+Sampai disini dapat disimpulkan bahwa semakin tua seorang nasabah, maka semakin besar kecenderungannya untuk keluar dari Bank Purwad. Namun, **harus diingat bahwa kesimpulan ini berlaku sampai batas usia nasabah 59 tahun**.
+
+[![7.jpg](https://i.postimg.cc/d34hhbJs/7.jpg)](https://postimg.cc/tnnqfm1w)
+
+Jerman adalah negara dengan jumlah nasabah yang pindah terbanyak. Namun begitu, persebaran nasabah antar negara terlihat tidak merata, terutama Spanyol yang memiliki perbedaan jumlah yang cukup jauh. Maka dari itu, harus digunakan proporsi agar kesimpulan yang diambil tidak bias.
