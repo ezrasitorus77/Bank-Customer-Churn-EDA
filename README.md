@@ -1,4 +1,5 @@
 <h1> Disclaimer </h1>
+
 - Sumber : https://www.kaggle.com/santoshd3/bank-customers
 
 - Tidak ada info yang komprehensif mengenai dataset, khususnya mengenai variabel *IsActiveMember*.
