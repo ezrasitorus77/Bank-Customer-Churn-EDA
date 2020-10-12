@@ -73,7 +73,7 @@ Jerman adalah negara dengan jumlah nasabah yang pindah terbanyak. Namun begitu, 
 
 Negara asal seorang nasabah tidak berpengaruh pada keputusannya untuk pindah bank. Namun, jika dilihat lebih spesifik, jenis kelamin cukup berpengaruh. Jenis kelamin wanita konsisten berada di atas 53% atau lebih dari setengah dari total nasabah pada rentang umur 48 - 59 yang pindah. Adapun faktor yang melatarbelakanginya bisa jadi berasal dari hubungan nasabah dengan ROnya maupun pelayanan yang buruk dari tim CS. Berbeda dengan pria, wanita cenderung memiliki sifat yang lebih perasa. Umur yang tergolong tua juga diyakini turut memberi dampak tambahan pada sifat tersebut. Oleh sebab itu perlu ditinjau lebih lanjut kepada tim RO dan CS.
 
-**2 Hubungan antara saldo dan kepindahan nasabah**
+**2. Hubungan antara saldo dan kepindahan nasabah**
 
 [![9.jpg](https://i.postimg.cc/2y6zKVfY/9.jpg)](https://postimg.cc/r0BXdymZ)
 
