@@ -25,3 +25,22 @@ Selama ini kita berhasil menghimpun total 10.000 nasabah baru di luar negeri. Pe
 [![1.jpg](https://i.postimg.cc/rs4bhkYj/1.jpg)](https://postimg.cc/CnFm1W0n)
 
 Kami menemukan bahwa dari total seluruh nasabah terdaftar, ada sekitar 20.4% nasabah yang akhirnya memutuskan untuk pindah. Angka ini tentu bukan angka yang kecil karena hampir menyentuh seperempat total nasabah. Berdasar info dari tim Relationship Officer (RO), 63% diantaranya pindah ke Bank Hacktiv, 29% pindah ke Bank Algo, dan 8% sisanya tidak diketahui. Permasalahan ini harus segera diselesaikan mengingat pemerintah pada pertengahan tahun depan akan menyerahkan insentif sebesar 100 Milyar Rupiah kepada 2 bank swasta dengan jumlah nasabah tertinggi. Jika manajemen nasabah seperti ini dibiarkan, kami khawatir jumlah nasabah akan terus tergerus hingga tahun depan.
+
+<h1> Tujuan EDA </h1>
+
+Tujuan dari laporan dan analisis ini tidak lain adalah untuk mendukung dan mendorong tim RO maupun *Customer Service* (CS) untuk memperbaiki sistem manajemen nasabah dan komunikasnya. Adapun bentuk dukungan tersebut secara teknis akan terwujud dalam kategorisasi nasabah yang memiliki kecenderungan untuk pindah. Nantinya, dengan 'peramalan' ini, diharapkan tim RO dapat dengan sigap menghubungi, memperbaiki hubungan, menawarkan kemudahan, ataupun mencari solusi terhadap permasalahan yang mungkin seorang nasabah hadapi terhadap Bank Purwad. Dengan begitu, angka penurunan jumlah nasabah bisa kita tekan atau bahkan hentikan setidaknya sampai pemerintah memberikan insentif. 
+
+<h1> Melihat korelasi secara umum </h1>
+
+Pada sub pembahasan ini, hanya dilakukan pengecekan secara umum. Pengecekan maupun penanganan variabel secara lebih spesifik dan komprehensif dilakukan pada sub pembahasan **Analisis Variabel**.
+
+[![2.jpg](https://i.postimg.cc/MGdvTk59/2.jpg)](https://postimg.cc/6749jmDZ)
+
+Sampai di sini, korelasi variabel numerik terkuat terhadap variabel ***Exited*** adalah ***Age***, ***Balance***, dan ***IsActiveMember***. Maka itu, kolom - kolom numerik yang tidak relevan diputuskan untuk dieliminasi.
+Namun, sebelum melangkah lebih jauh, variabel - variabel tersebut harus dilihat distribusinya terlebih dahulu.
+
+<h1> Analisis Variabel </h1>
+
+<h2> Hubungan antara umur dan kepindahan nasabah </h2>
+
+wf
