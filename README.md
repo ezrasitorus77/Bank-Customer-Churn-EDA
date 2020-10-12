@@ -78,3 +78,50 @@ Negara asal seorang nasabah tidak berpengaruh pada keputusannya untuk pindah ban
 [![9.jpg](https://i.postimg.cc/2y6zKVfY/9.jpg)](https://postimg.cc/r0BXdymZ)
 
 'Balance' memiliki kecenderungan distribusi 'bimodal'. Oleh karena itu, untuk menilai korelasinya harus menggunakan metode Spearman.
+
+Nilai korelasi 'Balance' dan 'Exited' :
+
+[![10.jpg](https://i.postimg.cc/bJCV1DWx/10.jpg)](https://postimg.cc/r049km8s)
+
+Dapat dilihat bahwa persebaran data saldo tidak merata dan menumpuk di dua kelompok, dimana salah satunya adalah 0 USD. Nasabah yang masuk dalam kelompok ini cukup banyak dan patut untuk dicari tahu latar belakangnya. Ada dua kemungkinan untuk menjawabnya.
+
+**Pertama**, besar kemungkinan saat tim Data Engineer menghimpun data posisi saldo nasabah secara kebetulan sedang 0 (mengingat kebijakan Bank Purwad yang membolehkan sisa saldo hingga 0). Asumsi pertama ini memiliki dua cabang asumsi lagi:
+- Nasabah secara kebetulan menggunakan semua saldonya untuk berbelanja maupun keperluan lain hingga habis.
+- Nasabah dengan sengaja menarik semua sisa uangnya di Bank Purwad karena ingin pindah ke bank lain.
+
+**Kedua**, nasabah - nasabah tersebut adalah nasabah baru (berkaitan dengan kebijakan Bank Purwad yang memperbolehkan membuka rekening tanpa minimal dana mengendap).
+
+Nasabah dengan saldo 0 tersebut tidak kami eliminasi ataupun manipulasi, mengingat ia bukanlah *missing values* dan tentunya mempunyai dampak terhadap perilaku nasabah yang pindah maupun tidak pindah.
+
+[![11.jpg](https://i.postimg.cc/T3Jzpwd9/11.jpg)](https://postimg.cc/213ctCBb)
+
+36,2% bukanlah angka yang kecil dan 'normal' menurut kami. Harus dicari tahu lebih dalam apakah ada hubungan antara nasabah dengan saldo 0 dengn keputusannya untuk pindah dari Bank Purwad. Selain itu, kita juga bisa melihat distribusi umur nasabah yang masuk dalam kelompok ini.
+
+[![12.jpg](https://i.postimg.cc/tggMJNmq/12.jpg)](https://postimg.cc/XrT8Ddbm)
+
+Grafik di atas mematahkan salah satu asumsi kami bahwa nasabah dengan saldo 0 USD adalah nasabah yang sengaja menarik semua uangnya dari Bank Purwad karena merasa tidak puas dan berencana untuk pindah bank. Ternyata sebaliknya, kelompok nasabah inilah yang lebih loyal. Maka dari itu, fokus analisis harus di pusatkan pada kelompok saldo di atas 0 USD.
+
+[![13.jpg](https://i.postimg.cc/qR3Q6bcT/13.jpg)](https://postimg.cc/sQ35tJ06)
+
+[![14.jpg](https://i.postimg.cc/4NBvyRCc/14.jpg)](https://postimg.cc/XpBB1hYN)
+
+Baik kelompok nasabah yang memutuskan untuk pindah ataupun tidak, sama - sama memiliki konsentrasi saldo pada rentang sekitar 90.000 - 160.000. Namun, nasabah yang tidak pindah terlihat memiliki distribusi yang lebih sporadis.
+
+Data ini tentunya mengejutkan kita semua. Terlihat bahwa dalam kelompok nasabah yang pindah terdapat beberapa nasabah prioritas kita, yang lebih tepatnya memiliki saldo di atas 200.000 USD. Memang tidak bisa serta merta disimpulkan jikalau semakin tinggi saldo seorang nasabah, maka kemungkinannya untuk pindah semakin besar. Namun, kami menemukan **korelasi tersebut dalam skala kecil jika seorang nasabah sudah masuk dalam kategori prioritas (saldo di atas 200.000 USD)**. Pada sisi lain, **jenis kelamin nampaknya tidak berpengaruh lagi jika saldo nasabah sudah sebesar itu**. Hal ini tentunya mengkhawatirkan mengingat nasabah prioritas adalah nasabah yang paling potensial untuk kita tawari kredit besar. Selain itu, dana minimal mengendap mereka juga jauh lebih tinggi dari nasabah biasa.
+
+Ada beberapa hal yang mungkin menyebabkan kecewanya kelompok nasabah ini:
+- Beberapa di antaranya adalah proses peminjaman / kredit yang cenderung rumit dan lama.
+- Bunga yang kita tawarkan kalah bersaing dengan bank - bank daerah / swasta setempat, khususnya di Perancis dan Spanyol.
+
+Presentase nasabah prioritas yang pindah per negara :
+
+[![15.jpg](https://i.postimg.cc/bJpd1dkw/15.jpg)](https://postimg.cc/8FX1SpZ2)
+
+Presentase nasabah biasa yang pindah per negara :
+
+[![16.jpg](https://i.postimg.cc/yNzNzWfy/16.jpg)](https://postimg.cc/0zcvY51z)
+
+Untuk kategori nasabah biasa, Jerman adalah negara yang presentase kepindahannya tertinggi. Sedangkan, untuk kelompok nasabah prioritas Spanyol adalah yang terbanyak.
+
+**3. Hubungan antara keaktifan dan kepindahan nasabah**
+
