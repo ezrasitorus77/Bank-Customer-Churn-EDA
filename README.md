@@ -125,3 +125,21 @@ Untuk kategori nasabah biasa, Jerman adalah negara yang presentase kepindahannya
 
 **3. Hubungan antara keaktifan dan kepindahan nasabah**
 
+[![17.jpg](https://i.postimg.cc/5Nbd1L10/17.jpg)](https://postimg.cc/pyG1J9mb)
+
+Variabel terakhir ini nampaknya normal dan rasional jika dibandingkan dengan fakta di lapangan. Secara lumrah, nasabah yang tingkat keaktifannya lebih tinggi tentu saja tidak akan mudah untuk pindah. Ada beberapa hal yang mungkin berkaitan, salah satu yang terkuat adalah seperti keuntungan yang selama ini di dapat, bisa berupa undian / promo / keuntungan dari program kita. Sedangkan sebaliknya, nasabah yang tidak terlibat aktif dalam kegiatan dan program kita tentunya mempunyai 'ikatan' dan loyalitas yang lebih rendah. Dengan begitu tidak ada yang mengikatnya ketika ingin pindah dari Bank Purwad.
+
+[![18.jpg](https://i.postimg.cc/fb315v7H/18.jpg)](https://postimg.cc/gwWM28TR)
+[![19.jpg](https://i.postimg.cc/tCXf8btn/19.jpg)](https://postimg.cc/XXzQyTPn)
+
+Baik dari kelompok nasabah biasa yang tidak aktif dan pindah maupun aktif dan pindah, ditemukan bahwa Jerman mendominasi proporsi dengan nilai yang **lebih dari setengah** dan **hampir setengah** dari total populasi. Bahkan, bisa dikatakan bahwa Jerman memiliki korelasi terkuat dengan variabel ini. Dengan kata lain dapat kami simpulkan bahwa variabel keaktifan nasabah **tidak berpengaruh di lapangan**.
+
+**Perlu ditelusuri lebih lanjut** konteks sosial - budaya nasabah Jerman. Ada kemungkinan bahwa memang kultur nasabah kita disana yang tidak mudah puas dan mudah berpindah haluan. Nampaknya **perlu dibuat program khusus yang menargetkan nasabah di Jerman dengan mengadaptasi kebiasaan dan pola konsumsi setempat**.
+
+<h1> Rekomendasi </h1>
+
+1. Lakukan *training* dan *screening* terhadap para RO yang menangani nasabah **wanita berusia 48 - 59 tahun**, terlepas dari mana negara asalanya. Besar kemungkinan permasalahan ini akibat buruknya manajemen hubungan mereka dengan nasabah. Opsi lainnya adalah merekrut ataupun menukar RO terkait dengan yang sudah berpengalaman. Divisi lain yang perlu diperbaiki adalah Customer Service. Kami meyakini bahwa buruknya penanganan masalah dan keluhan lewat CS juga turut memberi dampak, mengingat nasabah dalam kelompok ini cenderung lebih perasa.
+2. Segera lakukan pendekatan khusus bagi nasabah prioritas (memiliki saldo di atas 200.000 USD) di Perancis dan Spanyol. Dua negara ini adalah sumber utama nasabah prioritas kita. Namun, disarankan agar pengembangan dan perbaikan difokuskan ke Spanyol. Hal ini dikarenakan presentase kepindahannya adalah yang tertinggi. Kami sarankan agar tim analis - bisnis **mengkaji ulang tingkat bunga yang ditwarkan** karena kemungkinan besar terlalu tinggi jika dibandingkan dengan bank swasta / daerah lain di Spanyol dan Perancis. **Penyesuaian dan kompromi dalam memberi pinjaman** pada nasabah prioritas di dua negara ini juga patut menjadi pertimbangan. Pasalnya, nasabah prioritas cenderung memiliki tingkat kredit produktif yang lebih tinggi dibandingkan nasabah biasa.
+3. Dalam konteks nasabah biasa (memiliki saldo di bawah 200.000 USD), tidak ditemukan pengaruh khusus dalam variabel data. Namun, yang menarik adalah bahwa Jerman menjadi lumbung terbesar nasabah yang pindah. Ada dua kemungkinan disini: **Pertama**, konteks sosial - budaya - ekonomi Jerman yang belum tim kita mengerti penuh (sehingga diperlukan studi perbandingan lebih lanjut untuk memahaminya) dan **kedua** ada permasalahan sistem internal di Bank Purwad cabang Jerman. Maka itu kami menawarkan **dua solusi**:
+    - Segera pahami dan pelajari konteks nasabah di Jerman kemudian bentuk program / manajemen baru yang dikhususkan untuk pasar setempat.
+    - Segera investigasi dan perbaiki permasalahan dalam tubuh organisasi Bank Purwad Jerman.
